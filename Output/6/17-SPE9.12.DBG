@@ -1,0 +1,65 @@
+
+===============Saturation Functions Diagnostics===============
+
+System:  Black-oil system.
+Relative permeability input format: Saturation Family I.
+Number of saturation regions: 1
+
+    Excessive chopping detected in report step 0, substep 0
+
+    Excessive chopping detected in report step 0, substep 0
+
+    Excessive chopping detected in report step 0, substep 1
+
+    Excessive chopping detected in report step 0, substep 2
+
+    Excessive chopping detected in report step 0, substep 3
+        Well that failed: PRODU24
+        Well that failed: PRODU24
+        Well that failed: PRODU4
+        Well that failed: PRODU4
+        Well that failed: PRODU10
+        Well that failed: PRODU10
+
+    Excessive chopping detected in report step 0, substep 3
+
+    Excessive chopping detected in report step 0, substep 5
+        Well that failed: PRODU13
+        Well that failed: PRODU13
+        Well that failed: PRODU18
+        Well that failed: PRODU18
+
+    Excessive chopping detected in report step 0, substep 5
+
+    Excessive chopping detected in report step 0, substep 6
+        Well that failed: PRODU5
+        Well that failed: PRODU5
+        Well that failed: PRODU6
+        Well that failed: PRODU6
+
+    Excessive chopping detected in report step 0, substep 6
+
+    Excessive chopping detected in report step 0, substep 11
+        Well that failed: PRODU7
+        Well that failed: PRODU7
+
+    Excessive chopping detected in report step 0, substep 11
+
+    Excessive chopping detected in report step 0, substep 11
+
+    Excessive chopping detected in report step 0, substep 11
+
+    Excessive chopping detected in report step 0, substep 11
+
+    Excessive chopping detected in report step 0, substep 11
+
+    Excessive chopping detected in report step 0, substep 11
+
+    Excessive chopping detected in report step 0, substep 11
+
+    Excessive chopping detected in report step 0, substep 11
+
+    Excessive chopping detected in report step 0, substep 11
+
+    Excessive chopping detected in report step 0, substep 11
+

@@ -1,0 +1,41 @@
+
+===============Saturation Functions Diagnostics===============
+
+System:  Black-oil system.
+Relative permeability input format: Saturation Family I.
+Number of saturation regions: 1
+
+    Excessive chopping detected in report step 0, substep 7
+        Well that failed: PRODU12
+        Well that failed: PRODU12
+        Well that failed: PRODU12
+        Well that failed: PRODU18
+        Well that failed: PRODU18
+        Well that failed: PRODU19
+        Well that failed: PRODU19
+        Well that failed: PRODU5
+
+    Excessive chopping detected in report step 0, substep 7
+        Well that failed: PRODU24
+        Well that failed: PRODU24
+
+    Excessive chopping detected in report step 0, substep 7
+        Well that failed: PRODU24
+        Well that failed: PRODU24
+
+    Excessive chopping detected in report step 0, substep 7
+
+    Excessive chopping detected in report step 0, substep 7
+
+    Excessive chopping detected in report step 0, substep 7
+
+    Excessive chopping detected in report step 0, substep 7
+
+    Excessive chopping detected in report step 0, substep 7
+
+    Excessive chopping detected in report step 0, substep 7
+
+    Excessive chopping detected in report step 0, substep 7
+
+    Excessive chopping detected in report step 0, substep 7
+
