@@ -5,13 +5,145 @@ System:  Black-oil system.
 Relative permeability input format: Saturation Family I.
 Number of saturation regions: 1
 
-    Excessive chopping detected in report step 0, substep 4
+======================================================= PRODUCTION REPORT =======================================================
+:  WELL  :  LOCATION :CTRL:    OIL    :   WATER   :    GAS    :   FLUID   :   WATER   : GAS/OIL  :  WAT/GAS   : BHP OR : THP OR :
+:  NAME  :  (I,J,K)  :MODE:    RATE   :   RATE    :    RATE   :  RES.VOL. :    CUT    :  RATIO   :   RATIO    : CON.PR.: BLK.PR.:
+:        :           :    :  STB/DAY  :  STB/DAY  :  MSCF/DAY :  RB/DAY   :           : MSCF/STB :  STB/MSCF  :  PSIA  :  PSIA  :
+=================================================================================================================================
 
-    Excessive chopping detected in report step 0, substep 4
+:   FIELD:           :    :        0.0:        0.0:        0.0:        0.0:      0.000:      0.00:        -nan:        :        : 
+:--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
 
-    Excessive chopping detected in report step 0, substep 4
+:       G:           :    :    36530.5:       46.5:    51477.1:    41586.9:      0.001:      1.41:      0.0009:        :        : 
+:--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
 
-    Excessive chopping detected in report step 0, substep 4
+=================================================== INJECTION REPORT ========================================
+:  WELL  :  LOCATION : CTRL : CTRL : CTRL :    OIL    :   WATER   :    GAS    :   FLUID   : BHP OR : THP OR :
+:  NAME  :  (I,J,K)  : MODE : MODE : MODE :    RATE   :   RATE    :    RATE   :  RES.VOL. : CON.PR.: BLK.PR.:
+:        :           : OIL  : WAT  : GAS  :  STB/DAY  :  STB/DAY  :  MSCF/DAY :  RB/DAY   :  PSIA  :  PSIA  :
+==============================================================================================================
 
-    Excessive chopping detected in report step 0, substep 4
+:   FIELD:           :      :      :      :        0.0:        0.0:        0.0:        0.0:        :        : 
+:--------:-----------:------:------:------:------------:----------:-----------:-----------:--------:--------: 
+
+:       G:           :      :      :      :        0.0:     5000.0:        0.0:        0.0:        :        : 
+:--------:-----------:------:------:------:------------:----------:-----------:-----------:--------:--------: 
+
+=================================================== CUMULATIVE PRODUCTION/INJECTION REPORT =========================================
+:  WELL  :  LOCATION :  WELL  :CTRL:    OIL    :   WATER   :    GAS    :   Prod    :    OIL    :   WATER   :    GAS    :   INJ     :
+:  NAME  :  (I,J,K)  :  TYPE  :MODE:    PROD   :   PROD    :    PROD   :  RES.VOL. :    INJ    :   INJ     :    INJ    :  RES.VOL. :
+:        :           :        :    :    MSTB   :   MSTB    :    MMSCF  :   MRB     :    MSTB   :   MSTB    :    MMSCF  :   MRB     :
+====================================================================================================================================
+
+:   FIELD:           :        :    :        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0: 
+:--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
+
+:       G:           :        :    :      132.3:        0.2:      184.9:      149.5:        0.0:       18.0:        0.0:       18.0: 
+:--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
+
+======================================================= PRODUCTION REPORT =======================================================
+:  WELL  :  LOCATION :CTRL:    OIL    :   WATER   :    GAS    :   FLUID   :   WATER   : GAS/OIL  :  WAT/GAS   : BHP OR : THP OR :
+:  NAME  :  (I,J,K)  :MODE:    RATE   :   RATE    :    RATE   :  RES.VOL. :    CUT    :  RATIO   :   RATIO    : CON.PR.: BLK.PR.:
+:        :           :    :  STB/DAY  :  STB/DAY  :  MSCF/DAY :  RB/DAY   :           : MSCF/STB :  STB/MSCF  :  PSIA  :  PSIA  :
+=================================================================================================================================
+
+:   FIELD:           :    :        0.0:        0.0:        0.0:        0.0:      0.000:      0.00:        -nan:        :        : 
+:--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
+
+:       G:           :    :    35813.8:       46.3:    50718.6:    40883.9:      0.001:      1.42:      0.0009:        :        : 
+:--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
+
+=================================================== INJECTION REPORT ========================================
+:  WELL  :  LOCATION : CTRL : CTRL : CTRL :    OIL    :   WATER   :    GAS    :   FLUID   : BHP OR : THP OR :
+:  NAME  :  (I,J,K)  : MODE : MODE : MODE :    RATE   :   RATE    :    RATE   :  RES.VOL. : CON.PR.: BLK.PR.:
+:        :           : OIL  : WAT  : GAS  :  STB/DAY  :  STB/DAY  :  MSCF/DAY :  RB/DAY   :  PSIA  :  PSIA  :
+==============================================================================================================
+
+:   FIELD:           :      :      :      :        0.0:        0.0:        0.0:        0.0:        :        : 
+:--------:-----------:------:------:------:------------:----------:-----------:-----------:--------:--------: 
+
+:       G:           :      :      :      :        0.0:     5000.0:        0.0:        0.0:        :        : 
+:--------:-----------:------:------:------:------------:----------:-----------:-----------:--------:--------: 
+
+=================================================== CUMULATIVE PRODUCTION/INJECTION REPORT =========================================
+:  WELL  :  LOCATION :  WELL  :CTRL:    OIL    :   WATER   :    GAS    :   Prod    :    OIL    :   WATER   :    GAS    :   INJ     :
+:  NAME  :  (I,J,K)  :  TYPE  :MODE:    PROD   :   PROD    :    PROD   :  RES.VOL. :    INJ    :   INJ     :    INJ    :  RES.VOL. :
+:        :           :        :    :    MSTB   :   MSTB    :    MMSCF  :   MRB     :    MSTB   :   MSTB    :    MMSCF  :   MRB     :
+====================================================================================================================================
+
+:   FIELD:           :        :    :        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0: 
+:--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
+
+:       G:           :        :    :      361.5:        0.5:      509.5:      411.2:        0.0:       50.0:        0.0:       50.1: 
+:--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
+
+======================================================= PRODUCTION REPORT =======================================================
+:  WELL  :  LOCATION :CTRL:    OIL    :   WATER   :    GAS    :   FLUID   :   WATER   : GAS/OIL  :  WAT/GAS   : BHP OR : THP OR :
+:  NAME  :  (I,J,K)  :MODE:    RATE   :   RATE    :    RATE   :  RES.VOL. :    CUT    :  RATIO   :   RATIO    : CON.PR.: BLK.PR.:
+:        :           :    :  STB/DAY  :  STB/DAY  :  MSCF/DAY :  RB/DAY   :           : MSCF/STB :  STB/MSCF  :  PSIA  :  PSIA  :
+=================================================================================================================================
+
+:   FIELD:           :    :        0.0:        0.0:        0.0:        0.0:      0.000:      0.00:        -nan:        :        : 
+:--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
+
+:       G:           :    :    35546.4:       43.2:    49976.7:    40279.6:      0.001:      1.41:      0.0009:        :        : 
+:--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
+
+=================================================== INJECTION REPORT ========================================
+:  WELL  :  LOCATION : CTRL : CTRL : CTRL :    OIL    :   WATER   :    GAS    :   FLUID   : BHP OR : THP OR :
+:  NAME  :  (I,J,K)  : MODE : MODE : MODE :    RATE   :   RATE    :    RATE   :  RES.VOL. : CON.PR.: BLK.PR.:
+:        :           : OIL  : WAT  : GAS  :  STB/DAY  :  STB/DAY  :  MSCF/DAY :  RB/DAY   :  PSIA  :  PSIA  :
+==============================================================================================================
+
+:   FIELD:           :      :      :      :        0.0:        0.0:        0.0:        0.0:        :        : 
+:--------:-----------:------:------:------:------------:----------:-----------:-----------:--------:--------: 
+
+:       G:           :      :      :      :        0.0:     5000.0:        0.0:        0.0:        :        : 
+:--------:-----------:------:------:------:------------:----------:-----------:-----------:--------:--------: 
+
+=================================================== CUMULATIVE PRODUCTION/INJECTION REPORT =========================================
+:  WELL  :  LOCATION :  WELL  :CTRL:    OIL    :   WATER   :    GAS    :   Prod    :    OIL    :   WATER   :    GAS    :   INJ     :
+:  NAME  :  (I,J,K)  :  TYPE  :MODE:    PROD   :   PROD    :    PROD   :  RES.VOL. :    INJ    :   INJ     :    INJ    :  RES.VOL. :
+:        :           :        :    :    MSTB   :   MSTB    :    MMSCF  :   MRB     :    MSTB   :   MSTB    :    MMSCF  :   MRB     :
+====================================================================================================================================
+
+:   FIELD:           :        :    :        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0: 
+:--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
+
+:       G:           :        :    :      913.5:        1.1:     1283.1:     1035.6:        0.0:      127.6:        0.0:      127.9: 
+:--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
+
+    Excessive chopping detected in report step 3, substep 3
+
+    Excessive chopping detected in report step 3, substep 3
+
+    Excessive chopping detected in report step 3, substep 5
+
+    Excessive chopping detected in report step 3, substep 9
+
+    Excessive chopping detected in report step 3, substep 10
+
+    Excessive chopping detected in report step 3, substep 14
+
+    Excessive chopping detected in report step 3, substep 17
+
+    Excessive chopping detected in report step 3, substep 18
+
+    Excessive chopping detected in report step 3, substep 18
+
+    Excessive chopping detected in report step 3, substep 18
+
+    Excessive chopping detected in report step 3, substep 18
+
+    Excessive chopping detected in report step 3, substep 18
+
+    Excessive chopping detected in report step 3, substep 18
+
+    Excessive chopping detected in report step 3, substep 18
+
+    Excessive chopping detected in report step 3, substep 18
+
+    Excessive chopping detected in report step 3, substep 18
+
+    Excessive chopping detected in report step 3, substep 18
 

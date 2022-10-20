@@ -14,10 +14,7 @@ Number of saturation regions: 1
 :   FIELD:           :    :        0.0:        0.0:        0.0:        0.0:      0.000:      0.00:        -nan:        :        : 
 :--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
 
-:       G:           :    :    36498.5:       48.6:    51668.6:    41804.7:      0.001:      1.42:      0.0009:        :        : 
-:--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
-
-: PRODU23:   15,   22:ORAT:     1355.7:       13.3:     1803.6:     1509.9:      0.010:      1.33:      0.0074:  1000.0:     0.0: 
+:       G:           :    :    35920.8:       47.7:    51631.7:    41456.3:      0.001:      1.44:      0.0009:        :        : 
 :--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
 
 =================================================== INJECTION REPORT ========================================
@@ -41,39 +38,19 @@ Number of saturation regions: 1
 :   FIELD:           :        :    :        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0: 
 :--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
 
-:       G:           :        :    :      200.6:        0.3:      279.7:      226.4:        0.0:       27.2:        0.0:       27.3: 
+:       G:           :        :    :      228.1:        0.3:      323.9:      260.9:        0.0:       31.4:        0.0:       31.5: 
 :--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
 
-: PRODU23:   15,   22:    PROD:ORAT:        7.8:        0.1:       10.5:        8.7:        0.0:        0.0:        0.0:        0.0: 
-:--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
+    Excessive chopping detected in report step 1, substep 1
 
-    Excessive chopping detected in report step 1, substep 5
+    Excessive chopping detected in report step 1, substep 1
 
-    Excessive chopping detected in report step 1, substep 6
+    Excessive chopping detected in report step 1, substep 1
 
-    Excessive chopping detected in report step 1, substep 7
+    Excessive chopping detected in report step 1, substep 1
 
-    Excessive chopping detected in report step 1, substep 8
+    Excessive chopping detected in report step 1, substep 1
 
-    Excessive chopping detected in report step 1, substep 10
-
-    Excessive chopping detected in report step 1, substep 11
-
-    Excessive chopping detected in report step 1, substep 11
-
-    Excessive chopping detected in report step 1, substep 11
-
-    Excessive chopping detected in report step 1, substep 11
-
-    Excessive chopping detected in report step 1, substep 11
-
-    Excessive chopping detected in report step 1, substep 11
-
-    Excessive chopping detected in report step 1, substep 11
-
-    Excessive chopping detected in report step 1, substep 11
-
-    Excessive chopping detected in report step 1, substep 11
-
-    Excessive chopping detected in report step 1, substep 11
+    Excessive chopping detected in report step 1, substep 1
+        Well that failed: INJE1
 

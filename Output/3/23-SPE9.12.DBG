@@ -14,13 +14,7 @@ Number of saturation regions: 1
 :   FIELD:           :    :        0.0:        0.0:        0.0:        0.0:      0.000:      0.00:        -nan:        :        : 
 :--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
 
-:       G:           :    :    36708.2:       50.1:    51242.8:    41619.7:      0.001:      1.40:      0.0010:        :        : 
-:--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
-
-:  PRODU2:    5,    1:ORAT:     1500.0:       -0.0:     1995.9:     1655.8:     -0.000:      1.33:     -0.0000:  2919.1:     0.0: 
-:--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
-
-: PRODU13:    5,   12:ORAT:     1500.0:       -0.0:     1991.0:     1655.3:     -0.000:      1.33:     -0.0000:  2946.4:     0.0: 
+:       G:           :    :    35843.9:       48.2:    51339.6:    41259.3:      0.001:      1.43:      0.0009:        :        : 
 :--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
 
 =================================================== INJECTION REPORT ========================================
@@ -44,34 +38,20 @@ Number of saturation regions: 1
 :   FIELD:           :        :    :        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0: 
 :--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
 
-:       G:           :        :    :      118.1:        0.2:      163.8:      132.9:        0.0:       16.0:        0.0:       16.0: 
+:       G:           :        :    :      259.4:        0.3:      368.1:      296.6:        0.0:       35.8:        0.0:       35.9: 
 :--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
 
-:  PRODU2:    5,    1:    PROD:ORAT:        4.8:        0.0:        6.4:        5.3:        0.0:        0.0:        0.0:        0.0: 
-:--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
+    Excessive chopping detected in report step 1, substep 3
 
-: PRODU13:    5,   12:    PROD:ORAT:        4.8:        0.0:        6.4:        5.3:        0.0:        0.0:        0.0:        0.0: 
-:--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
+    Excessive chopping detected in report step 1, substep 3
 
-    Excessive chopping detected in report step 1, substep 8
+    Excessive chopping detected in report step 1, substep 3
 
-    Excessive chopping detected in report step 1, substep 10
+    Excessive chopping detected in report step 1, substep 3
 
-    Excessive chopping detected in report step 1, substep 10
+    Excessive chopping detected in report step 1, substep 3
 
-    Excessive chopping detected in report step 1, substep 10
+    Excessive chopping detected in report step 1, substep 3
 
-    Excessive chopping detected in report step 1, substep 10
-
-    Excessive chopping detected in report step 1, substep 10
-
-    Excessive chopping detected in report step 1, substep 10
-
-    Excessive chopping detected in report step 1, substep 10
-
-    Excessive chopping detected in report step 1, substep 10
-
-    Excessive chopping detected in report step 1, substep 10
-
-    Excessive chopping detected in report step 1, substep 10
+    Excessive chopping detected in report step 1, substep 3
 

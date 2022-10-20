@@ -14,19 +14,7 @@ Number of saturation regions: 1
 :   FIELD:           :    :        0.0:        0.0:        0.0:        0.0:      0.000:      0.00:        -nan:        :        : 
 :--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
 
-:       G:           :    :    36504.2:       48.4:    51556.0:    41736.7:      0.001:      1.41:      0.0009:        :        : 
-:--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
-
-:  PRODU3:    8,    2:ORAT:     1500.0:        0.0:     2023.6:     1658.6:      0.000:      1.35:      0.0000:  2941.5:     0.0: 
-:--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
-
-:  PRODU5:   10,    4:ORAT:     1500.0:        0.0:     2026.2:     1658.9:      0.000:      1.35:      0.0000:  3098.2:     0.0: 
-:--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
-
-:  PRODU8:    8,    7:ORAT:     1500.0:        0.0:     2038.6:     1660.1:      0.000:      1.36:      0.0000:  3278.8:     0.0: 
-:--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
-
-: PRODU13:    5,   12:ORAT:     1500.0:       -0.0:     1993.3:     1655.6:     -0.000:      1.33:     -0.0000:  2952.9:     0.0: 
+:       G:           :    :    36474.8:       46.7:    51598.4:    41602.5:      0.001:      1.41:      0.0009:        :        : 
 :--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
 
 =================================================== INJECTION REPORT ========================================
@@ -50,46 +38,39 @@ Number of saturation regions: 1
 :   FIELD:           :        :    :        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0: 
 :--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
 
-:       G:           :        :    :      200.6:        0.3:      279.5:      226.3:        0.0:       27.2:        0.0:       27.3: 
+:       G:           :        :    :      132.1:        0.2:      185.1:      149.5:        0.0:       18.0:        0.0:       18.0: 
 :--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
 
-:  PRODU3:    8,    2:    PROD:ORAT:        8.2:        0.0:       11.1:        9.0:        0.0:        0.0:        0.0:        0.0: 
-:--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
+    Excessive chopping detected in report step 1, substep 4
 
-:  PRODU5:   10,    4:    PROD:ORAT:        8.2:        0.0:       11.1:        9.0:        0.0:        0.0:        0.0:        0.0: 
-:--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
+    Excessive chopping detected in report step 1, substep 5
 
-:  PRODU8:    8,    7:    PROD:ORAT:        8.2:        0.0:       11.2:        9.0:        0.0:        0.0:        0.0:        0.0: 
-:--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
+    Excessive chopping detected in report step 1, substep 7
 
-: PRODU13:    5,   12:    PROD:ORAT:        8.2:        0.0:       10.9:        9.0:        0.0:        0.0:        0.0:        0.0: 
-:--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
+    Excessive chopping detected in report step 1, substep 7
+        Well that failed: PRODU17
+        Well that failed: PRODU17
+        Well that failed: PRODU17
 
-    Excessive chopping detected in report step 1, substep 8
+    Excessive chopping detected in report step 1, substep 7
 
-    Excessive chopping detected in report step 1, substep 9
+    Excessive chopping detected in report step 1, substep 7
 
-    Excessive chopping detected in report step 1, substep 9
+    Excessive chopping detected in report step 1, substep 7
 
-    Excessive chopping detected in report step 1, substep 9
+    Excessive chopping detected in report step 1, substep 7
 
-    Excessive chopping detected in report step 1, substep 10
+    Excessive chopping detected in report step 1, substep 7
 
-    Excessive chopping detected in report step 1, substep 10
+    Excessive chopping detected in report step 1, substep 7
+        Well that failed: PRODU17
+        Well that failed: PRODU17
+        Well that failed: PRODU17
+        Well that failed: PRODU17
 
-    Excessive chopping detected in report step 1, substep 10
+    Excessive chopping detected in report step 1, substep 7
+        Well that failed: PRODU17
+        Well that failed: PRODU17
 
-    Excessive chopping detected in report step 1, substep 10
-
-    Excessive chopping detected in report step 1, substep 10
-
-    Excessive chopping detected in report step 1, substep 10
-
-    Excessive chopping detected in report step 1, substep 10
-
-    Excessive chopping detected in report step 1, substep 10
-
-    Excessive chopping detected in report step 1, substep 10
-
-    Excessive chopping detected in report step 1, substep 10
+    Excessive chopping detected in report step 1, substep 7
 

@@ -14,7 +14,7 @@ Number of saturation regions: 1
 :   FIELD:           :    :        0.0:        0.0:        0.0:        0.0:      0.000:      0.00:        -nan:        :        : 
 :--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
 
-:       G:           :    :    35754.9:       56.1:    51502.8:    41401.4:      0.002:      1.44:      0.0011:        :        : 
+:       G:           :    :    36436.6:       46.7:    51581.2:    41586.6:      0.001:      1.42:      0.0009:        :        : 
 :--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
 
 =================================================== INJECTION REPORT ========================================
@@ -26,7 +26,10 @@ Number of saturation regions: 1
 :   FIELD:           :      :      :      :        0.0:        0.0:        0.0:        0.0:        :        : 
 :--------:-----------:------:------:------:------------:----------:-----------:-----------:--------:--------: 
 
-:       G:           :      :      :      :        0.0:     4086.9:        0.0:        0.0:        :        : 
+:       G:           :      :      :      :        0.0:     5000.0:        0.0:        0.0:        :        : 
+:--------:-----------:------:------:------:------------:----------:-----------:-----------:--------:--------: 
+
+:   INJE1:   24,   25:      :      :  WRAT:        0.0:     5000.0:        0.0:        0.0:  3902.6:     0.0: 
 :--------:-----------:------:------:------:------------:----------:-----------:-----------:--------:--------: 
 
 =================================================== CUMULATIVE PRODUCTION/INJECTION REPORT =========================================
@@ -38,20 +41,49 @@ Number of saturation regions: 1
 :   FIELD:           :        :    :        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0: 
 :--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
 
-:       G:           :        :    :      316.2:        0.5:      449.5:      362.8:        0.0:       39.2:        0.0:       39.3: 
+:       G:           :        :    :      132.0:        0.2:      185.1:      149.4:        0.0:       18.0:        0.0:       18.0: 
 :--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
 
-    Excessive chopping detected in report step 1, substep 3
+:   INJE1:   24,   25:     INJ:WRAT:        0.0:        0.0:        0.0:        0.0:        0.0:       18.0:        0.0:       18.0: 
+:--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
 
-    Excessive chopping detected in report step 1, substep 3
+    Excessive chopping detected in report step 1, substep 6
 
-    Excessive chopping detected in report step 1, substep 3
+    Excessive chopping detected in report step 1, substep 8
 
-    Excessive chopping detected in report step 1, substep 3
+    Excessive chopping detected in report step 1, substep 8
 
-    Excessive chopping detected in report step 1, substep 3
+    Excessive chopping detected in report step 1, substep 8
 
-    Excessive chopping detected in report step 1, substep 3
+    Excessive chopping detected in report step 1, substep 14
 
-    Excessive chopping detected in report step 1, substep 3
+    Excessive chopping detected in report step 1, substep 15
+
+    Excessive chopping detected in report step 1, substep 15
+
+    Excessive chopping detected in report step 1, substep 16
+
+    Excessive chopping detected in report step 1, substep 17
+
+    Excessive chopping detected in report step 1, substep 18
+
+    Excessive chopping detected in report step 1, substep 19
+
+    Excessive chopping detected in report step 1, substep 19
+
+    Excessive chopping detected in report step 1, substep 19
+
+    Excessive chopping detected in report step 1, substep 19
+
+    Excessive chopping detected in report step 1, substep 19
+
+    Excessive chopping detected in report step 1, substep 19
+
+    Excessive chopping detected in report step 1, substep 19
+
+    Excessive chopping detected in report step 1, substep 19
+
+    Excessive chopping detected in report step 1, substep 19
+
+    Excessive chopping detected in report step 1, substep 19
 

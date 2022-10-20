@@ -14,7 +14,7 @@ Number of saturation regions: 1
 :   FIELD:           :    :        0.0:        0.0:        0.0:        0.0:      0.000:      0.00:        -nan:        :        : 
 :--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
 
-:       G:           :    :    36013.9:       49.1:    51839.2:    41724.3:      0.001:      1.44:      0.0009:        :        : 
+:       G:           :    :    35932.9:       47.4:    51341.8:    41311.7:      0.001:      1.43:      0.0009:        :        : 
 :--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
 
 =================================================== INJECTION REPORT ========================================
@@ -29,9 +29,6 @@ Number of saturation regions: 1
 :       G:           :      :      :      :        0.0:     5000.0:        0.0:        0.0:        :        : 
 :--------:-----------:------:------:------:------------:----------:-----------:-----------:--------:--------: 
 
-:   INJE1:   24,   25:      :      :  WRAT:        0.0:     5000.0:        0.0:        0.0:  3910.5:     0.0: 
-:--------:-----------:------:------:------:------------:----------:-----------:-----------:--------:--------: 
-
 =================================================== CUMULATIVE PRODUCTION/INJECTION REPORT =========================================
 :  WELL  :  LOCATION :  WELL  :CTRL:    OIL    :   WATER   :    GAS    :   Prod    :    OIL    :   WATER   :    GAS    :   INJ     :
 :  NAME  :  (I,J,K)  :  TYPE  :MODE:    PROD   :   PROD    :    PROD   :  RES.VOL. :    INJ    :   INJ     :    INJ    :  RES.VOL. :
@@ -41,29 +38,21 @@ Number of saturation regions: 1
 :   FIELD:           :        :    :        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0: 
 :--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
 
-:       G:           :        :    :      332.0:        0.4:      468.6:      378.4:        0.0:       45.4:        0.0:       45.5: 
+:       G:           :        :    :      239.7:        0.3:      339.1:      273.4:        0.0:       33.0:        0.0:       33.1: 
 :--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
 
-:   INJE1:   24,   25:     INJ:WRAT:        0.0:        0.0:        0.0:        0.0:        0.0:       45.4:        0.0:       45.5: 
-:--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
+    Excessive chopping detected in report step 1, substep 3
 
-    Excessive chopping detected in report step 1, substep 2
+    Excessive chopping detected in report step 1, substep 3
 
-    Excessive chopping detected in report step 1, substep 2
+    Excessive chopping detected in report step 1, substep 3
+        Well that failed: INJE1
 
-    Excessive chopping detected in report step 1, substep 2
+    Excessive chopping detected in report step 1, substep 3
 
-    Excessive chopping detected in report step 1, substep 2
+    Excessive chopping detected in report step 1, substep 3
 
-    Excessive chopping detected in report step 1, substep 2
+    Excessive chopping detected in report step 1, substep 3
 
-    Excessive chopping detected in report step 1, substep 2
-
-    Excessive chopping detected in report step 1, substep 2
-
-    Excessive chopping detected in report step 1, substep 2
-
-    Excessive chopping detected in report step 1, substep 2
-
-    Excessive chopping detected in report step 1, substep 2
+    Excessive chopping detected in report step 1, substep 3
 
