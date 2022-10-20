@@ -1,0 +1,81 @@
+
+===============Saturation Functions Diagnostics===============
+
+System:  Black-oil system.
+Relative permeability input format: Saturation Family I.
+Number of saturation regions: 1
+
+======================================================= PRODUCTION REPORT =======================================================
+:  WELL  :  LOCATION :CTRL:    OIL    :   WATER   :    GAS    :   FLUID   :   WATER   : GAS/OIL  :  WAT/GAS   : BHP OR : THP OR :
+:  NAME  :  (I,J,K)  :MODE:    RATE   :   RATE    :    RATE   :  RES.VOL. :    CUT    :  RATIO   :   RATIO    : CON.PR.: BLK.PR.:
+:        :           :    :  STB/DAY  :  STB/DAY  :  MSCF/DAY :  RB/DAY   :           : MSCF/STB :  STB/MSCF  :  PSIA  :  PSIA  :
+=================================================================================================================================
+
+:   FIELD:           :    :        0.0:        0.0:        0.0:        0.0:      0.000:      0.00:        -nan:        :        : 
+:--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
+
+:       G:           :    :    36591.7:       50.8:    51302.9:    41622.8:      0.001:      1.40:      0.0010:        :        : 
+:--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
+
+: PRODU18:   11,   17:ORAT:     1500.0:        0.1:     1996.2:     1655.9:      0.000:      1.33:      0.0000:  3114.1:     0.0: 
+:--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
+
+: PRODU21:    8,   20:ORAT:     1222.7:        0.0:     1816.6:     1429.2:      0.000:      1.49:      0.0000:  1000.0:     0.0: 
+:--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
+
+=================================================== INJECTION REPORT ========================================
+:  WELL  :  LOCATION : CTRL : CTRL : CTRL :    OIL    :   WATER   :    GAS    :   FLUID   : BHP OR : THP OR :
+:  NAME  :  (I,J,K)  : MODE : MODE : MODE :    RATE   :   RATE    :    RATE   :  RES.VOL. : CON.PR.: BLK.PR.:
+:        :           : OIL  : WAT  : GAS  :  STB/DAY  :  STB/DAY  :  MSCF/DAY :  RB/DAY   :  PSIA  :  PSIA  :
+==============================================================================================================
+
+:   FIELD:           :      :      :      :        0.0:        0.0:        0.0:        0.0:        :        : 
+:--------:-----------:------:------:------:------------:----------:-----------:-----------:--------:--------: 
+
+:       G:           :      :      :      :        0.0:     4934.9:        0.0:        0.0:        :        : 
+:--------:-----------:------:------:------:------------:----------:-----------:-----------:--------:--------: 
+
+=================================================== CUMULATIVE PRODUCTION/INJECTION REPORT =========================================
+:  WELL  :  LOCATION :  WELL  :CTRL:    OIL    :   WATER   :    GAS    :   Prod    :    OIL    :   WATER   :    GAS    :   INJ     :
+:  NAME  :  (I,J,K)  :  TYPE  :MODE:    PROD   :   PROD    :    PROD   :  RES.VOL. :    INJ    :   INJ     :    INJ    :  RES.VOL. :
+:        :           :        :    :    MSTB   :   MSTB    :    MMSCF  :   MRB     :    MSTB   :   MSTB    :    MMSCF  :   MRB     :
+====================================================================================================================================
+
+:   FIELD:           :        :    :        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0: 
+:--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
+
+:       G:           :        :    :      132.5:        0.2:      184.4:      149.6:        0.0:       17.8:        0.0:       17.9: 
+:--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
+
+: PRODU18:   11,   17:    PROD:ORAT:        5.4:        0.0:        7.2:        6.0:        0.0:        0.0:        0.0:        0.0: 
+:--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
+
+: PRODU21:    8,   20:    PROD:ORAT:        4.7:        0.0:        6.7:        5.4:        0.0:        0.0:        0.0:        0.0: 
+:--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
+
+    Excessive chopping detected in report step 1, substep 7
+
+    Excessive chopping detected in report step 1, substep 7
+
+    Excessive chopping detected in report step 1, substep 7
+
+    Excessive chopping detected in report step 1, substep 8
+
+    Excessive chopping detected in report step 1, substep 8
+
+    Excessive chopping detected in report step 1, substep 8
+
+    Excessive chopping detected in report step 1, substep 8
+
+    Excessive chopping detected in report step 1, substep 8
+
+    Excessive chopping detected in report step 1, substep 8
+
+    Excessive chopping detected in report step 1, substep 8
+
+    Excessive chopping detected in report step 1, substep 8
+
+    Excessive chopping detected in report step 1, substep 8
+
+    Excessive chopping detected in report step 1, substep 8
+

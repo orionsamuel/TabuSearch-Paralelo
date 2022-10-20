@@ -5,71 +5,51 @@ System:  Black-oil system.
 Relative permeability input format: Saturation Family I.
 Number of saturation regions: 1
 
-    Excessive chopping detected in report step 0, substep 3
-        Well that failed: PRODU23
-        Well that failed: PRODU23
-        Well that failed: PRODU8
-        Well that failed: PRODU8
+======================================================= PRODUCTION REPORT =======================================================
+:  WELL  :  LOCATION :CTRL:    OIL    :   WATER   :    GAS    :   FLUID   :   WATER   : GAS/OIL  :  WAT/GAS   : BHP OR : THP OR :
+:  NAME  :  (I,J,K)  :MODE:    RATE   :   RATE    :    RATE   :  RES.VOL. :    CUT    :  RATIO   :   RATIO    : CON.PR.: BLK.PR.:
+:        :           :    :  STB/DAY  :  STB/DAY  :  MSCF/DAY :  RB/DAY   :           : MSCF/STB :  STB/MSCF  :  PSIA  :  PSIA  :
+=================================================================================================================================
 
-    Excessive chopping detected in report step 0, substep 3
+:   FIELD:           :    :        0.0:        0.0:        0.0:        0.0:      0.000:      0.00:        -nan:        :        : 
+:--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
 
-    Excessive chopping detected in report step 0, substep 3
+:       G:           :    :    36443.0:       47.2:    51452.0:    41600.6:      0.001:      1.41:      0.0009:        :        : 
+:--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
 
-    Excessive chopping detected in report step 0, substep 3
+=================================================== INJECTION REPORT ========================================
+:  WELL  :  LOCATION : CTRL : CTRL : CTRL :    OIL    :   WATER   :    GAS    :   FLUID   : BHP OR : THP OR :
+:  NAME  :  (I,J,K)  : MODE : MODE : MODE :    RATE   :   RATE    :    RATE   :  RES.VOL. : CON.PR.: BLK.PR.:
+:        :           : OIL  : WAT  : GAS  :  STB/DAY  :  STB/DAY  :  MSCF/DAY :  RB/DAY   :  PSIA  :  PSIA  :
+==============================================================================================================
 
-    Excessive chopping detected in report step 0, substep 7
-        Well that failed: PRODU17
-        Well that failed: PRODU17
+:   FIELD:           :      :      :      :        0.0:        0.0:        0.0:        0.0:        :        : 
+:--------:-----------:------:------:------:------------:----------:-----------:-----------:--------:--------: 
 
-    Excessive chopping detected in report step 0, substep 7
+:       G:           :      :      :      :        0.0:     5000.0:        0.0:        0.0:        :        : 
+:--------:-----------:------:------:------:------------:----------:-----------:-----------:--------:--------: 
 
-    Excessive chopping detected in report step 0, substep 8
-        Well that failed: PRODU24
-        Well that failed: PRODU24
+=================================================== CUMULATIVE PRODUCTION/INJECTION REPORT =========================================
+:  WELL  :  LOCATION :  WELL  :CTRL:    OIL    :   WATER   :    GAS    :   Prod    :    OIL    :   WATER   :    GAS    :   INJ     :
+:  NAME  :  (I,J,K)  :  TYPE  :MODE:    PROD   :   PROD    :    PROD   :  RES.VOL. :    INJ    :   INJ     :    INJ    :  RES.VOL. :
+:        :           :        :    :    MSTB   :   MSTB    :    MMSCF  :   MRB     :    MSTB   :   MSTB    :    MMSCF  :   MRB     :
+====================================================================================================================================
 
-    Excessive chopping detected in report step 0, substep 8
+:   FIELD:           :        :    :        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0: 
+:--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
 
-    Excessive chopping detected in report step 0, substep 10
+:       G:           :        :    :      210.2:        0.3:      293.2:      237.1:        0.0:       28.6:        0.0:       28.6: 
+:--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
 
-    Excessive chopping detected in report step 0, substep 12
+    Excessive chopping detected in report step 1, substep 10
 
-    Excessive chopping detected in report step 0, substep 15
+    Excessive chopping detected in report step 1, substep 10
 
-    Excessive chopping detected in report step 0, substep 16
+    Excessive chopping detected in report step 1, substep 10
 
-    Excessive chopping detected in report step 0, substep 17
+    Excessive chopping detected in report step 1, substep 10
 
-    Excessive chopping detected in report step 0, substep 19
+    Excessive chopping detected in report step 1, substep 10
 
-    Excessive chopping detected in report step 0, substep 19
-
-    Excessive chopping detected in report step 0, substep 19
-
-    Excessive chopping detected in report step 0, substep 20
-
-    Excessive chopping detected in report step 0, substep 20
-
-    Excessive chopping detected in report step 0, substep 20
-
-    Excessive chopping detected in report step 0, substep 20
-
-    Excessive chopping detected in report step 0, substep 20
-
-    Excessive chopping detected in report step 0, substep 21
-
-    Excessive chopping detected in report step 0, substep 21
-
-    Excessive chopping detected in report step 0, substep 21
-
-    Excessive chopping detected in report step 0, substep 21
-
-    Excessive chopping detected in report step 0, substep 21
-
-    Excessive chopping detected in report step 0, substep 21
-
-    Excessive chopping detected in report step 0, substep 21
-
-    Excessive chopping detected in report step 0, substep 21
-
-    Excessive chopping detected in report step 0, substep 21
+    Excessive chopping detected in report step 1, substep 10
 
